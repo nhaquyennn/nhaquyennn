@@ -2,13 +2,13 @@
 <h3 align="center">IS Student |🔥 Love turning ideas into real applications 💬 Let's connect and build something amazing!</h3>
 
 
-- 🔭 I’m currently studying at **IUH university**
+- I’m currently studying at **IUH university**
 
-- 🌱 I’m currently learning **Laravel, Java and a little bit of Docker, LLM+RAG**
+- I’m currently learning **Laravel, Java and a little bit of Docker, LLM+RAG**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nhaquyennn](https://github.com/nhaquyennn)
+- All of my projects are available at [https://github.com/nhaquyennn](https://github.com/nhaquyennn)
 
-- 📫 How to reach me **nhaquyenvo2003@gmail.com**
+- How to reach me **nhaquyenvo2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
