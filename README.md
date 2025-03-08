@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nha Quyen</h1>
 <h3 align="center">IS Student |🔥 Love turning ideas into real applications 💬 Let's connect and build something amazing!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhaquyenn" alt="nhaquyenn" /></a> </p>
 
 - 🔭 I’m currently studying at **IUH university**
 
