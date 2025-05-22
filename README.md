@@ -4,8 +4,6 @@
 
 - I’m currently studying at **IUH university**
 
-- I’m currently learning **Laravel, Java and a little bit of Docker, LLM+RAG**
-
 - All of my projects are available at [https://github.com/nhaquyennn](https://github.com/nhaquyennn)
 
 - How to reach me **nhaquyenvo2003@gmail.com**
