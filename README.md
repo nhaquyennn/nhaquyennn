@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nha Quyen</h1>
-<h3 align="center">IS Student |🔥 Love turning ideas into real applications 💬 Let's connect and build something amazing!</h3>
+<h1 align="center">Hi, I'm Nha Quyen</h1>
+<h3 align="center">IS Student | Love turning ideas into real applications Let's connect and build something amazing!</h3>
 
 
 - I’m currently studying at **IUH university**
