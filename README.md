@@ -5,7 +5,7 @@
 
 - I’m looking to collaborate on **business analysis projects, especially in requirement gathering and process modeling.**
 
-- How to reach me **nhaquyenvo2003@gmail.com**
+- How to reach me: **nhaquyenvo2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
